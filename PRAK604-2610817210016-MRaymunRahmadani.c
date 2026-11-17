@@ -30,7 +30,7 @@ int main() {
     printf("# = %d\n", pagar);
 
     if (bintang > pagar) {
-        printf("Pesan asli");
+        printf("Pesan Asli");
     }else {
         printf("Pesan Palsu");
     }

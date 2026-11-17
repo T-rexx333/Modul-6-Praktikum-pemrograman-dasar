@@ -21,6 +21,6 @@ else:
     print ("# =", pagar)
 
     if bintang > pagar:
-        print ("pesan Asli")
+        print ("Pesan Asli")
     else:
         print ("Pesan Palsu")
